@@ -4,6 +4,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Working on deep learning theory
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-theme: architect
+theme: Architect
 plugins:
   - jekyll-feed
