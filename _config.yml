@@ -1,11 +1,9 @@
-title: Your Name
-email: your-email@example.com
+title: my title
+email: maksim.velikanv@tii.ae
 description: >- # this means to ignore newlines until "baseurl:"
-  A Scientist specialising in Your Field of Expertise
+  Working on deep learning theory
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: yourhandle
-github_username:  yourgithubhandle
 theme: architect
 plugins:
   - jekyll-feed
